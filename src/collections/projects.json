@@ -1,20 +1,14 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"name": "Flux AI 图像生成器",
+		"description": "利用先进的 AI 技术将您的想法转化为令人惊叹的视觉效果.",
+		"image": "/assets/images/projects/flux.6888866.xyz.png",
+		"url": "https://flux.6888866.xyz/"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
-	},
-	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Pianoo",
+		"description": "music on your keyboard.",
+		"image": "/assets/images/projects/piano.6888866.xyz.png",
+		"url": "https://piano.6888866.xyz/"
 	}
 ]
